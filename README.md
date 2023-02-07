@@ -35,4 +35,4 @@ This class contains the logic for the typing test. It takes a piece of text as i
 
 This class contains a piece of text that is used as the input for the typing test. The text can be any string of your choice.
 
-Visit the [link](https://iq.opengenus.org/p/70a7ec6c-7e80-4efa-b0b5-d61fc686a5ca/) for a detailed explanation of the console application.
+Visit the [link](https://iq.opengenus.org/typing-speed-test-in-java/) for a detailed explanation of the console application.
